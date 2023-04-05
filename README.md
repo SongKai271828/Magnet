@@ -4,3 +4,6 @@
 利用射线检测，通过鼠标左右键对特定物体施加吸引力或排斥力。
 
 
+
+https://user-images.githubusercontent.com/57665499/230051792-6d06208f-592e-484f-b138-4bef4f896f3a.mp4
+
